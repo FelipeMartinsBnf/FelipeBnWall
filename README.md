@@ -1,7 +1,7 @@
 # Bem-vindo ao meu perfil do GitHub!
 
-Olá, eu sou Felipe Martins! 👋
-Estou atualemente estudando Desenvolviemnto, faço Análiise e desenvolviemtno de sistemas na FEPI
+Olá, eu sou Felipe Martins! 👋  
+Estou atualemente estudando Desenvolviemnto, faço Análise e desenvolviemtno de sistemas na FEPI 👨‍💻
 
 ## Projetos Principais:
 
