@@ -6,16 +6,16 @@ Estou atualemente estudando Desenvolviemnto, faço Análiise e desenvolviemtno d
 ## Projetos Principais:
 
 ### Projeto 1: TodoList Vue
-Este projeto é uma aplicação de lista de tarefas desenvolvida utilizando o framework Vue.js.
-Link: (https://github.com/FelipeMartinsBnf/TodoList-vue)
+Este projeto é uma aplicação de lista de tarefas desenvolvida utilizando o framework Vue.js.  
+Link: https://github.com/FelipeMartinsBnf/TodoList-vue
 
 ### Projeto 2: Calculadora IMC React
-Uma calculadora de Índice de Massa Corporal (IMC) desenvolvida com React e Vite. Permite calcular o IMC com base no peso e altura fornecidos.
-Link: (https://github.com/FelipeMartinsBnf/Calculadora_imc_react)
+Uma calculadora de Índice de Massa Corporal (IMC) desenvolvida com React e Vite. Permite calcular o IMC com base no peso e altura fornecidos.  
+Link: https://github.com/FelipeMartinsBnf/Calculadora_imc_react
 
 ### Clone DisneyPlus
-Uma página web educativa que replica o site da Disney Plus. Desenvolvida do zero com HTML, JavaScript e CSS para proporcionar experiência no desenvolvimento web.
-Link(https://github.com/FelipeMartinsBnf/clone_disneyPlus)
+Uma página web educativa que replica o site da Disney Plus. Desenvolvida do zero com HTML, JavaScript e CSS para proporcionar experiência no desenvolvimento web.  
+Link: https://github.com/FelipeMartinsBnf/clone_disneyPlus
 
 ---
 
